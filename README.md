@@ -1,4 +1,5 @@
 # ProjectGlove
+[![Build status](https://build.appcenter.ms/v0.1/apps/4fdd24e9-ded2-4464-9203-6277e52ca1cf/branches/master/badge)](https://appcenter.ms)
 ## What is ProjectGlove?
 At this point, ProjectGlove is a placeholder name; I have not decided what to name this. What it does reflect, however, is an app developed in Xamarin.
 ## What's the app going to do?
